@@ -1,0 +1,106 @@
+ 
+
+Poniżej zadanie nr 2.
+
+ 
+
+ 
+
+Proszę podzielić się na zespoły 2-3 osobowe i dla każdego zespołu wybrać jeden z poniższych tematów.
+
+ 
+
+    Przegląd literatury w zakresie definicji „proces biznesowy jako usługa”. (Business proces as a service, BPaaS)
+    Przegląd literatury w zakresie definicji „zarządzanie procesami biznesowymi jako usługa ”. (business process management as a service, BPMaaS, BPM cloud)
+    Przegląd rozwiązań klasy BPMaaS, BPM cloud
+   *** Przegląd rozwiązań klasy BPaaS ***
+    Przegląd literatury w zakresie definicji dynamiczne zarządzanie procesami biznesowymi (dynamic business process management, adaptive business process management)
+    Przegląd rozwiązań klasy BPMS, które posiadają funkcjonalność dynamic business process management
+    Przegląd metodyk zarządzania procesami biznesowymi
+    Przegląd modeli dojrzałości zarządzania procesami biznesowymi
+    Przegląd definicji „chmura obliczeniowa” (cloud computing)
+    Przegląd narzędzi do modelowania procesów biznesowych (tylko do modelowania).
+
+ 
+
+Dla zadań typu „przegląd literatury….”:
+
+    Artykułów szukamy w bazach co najmniej: Springer, Web of Science, Science Direct, Google Schoolar
+    Szukamy wg zapytań co najmniej tych, które wymieniłem poniżej, przykładowa treść zapytania”  „business process as a service” or bpaas
+    Dla każdego zapytania w każdej bazie ewidencjonujemy liczbę zwróconych artykułów i listę zwróconych artykułów
+    Przeglądamy zwrócone artykuły i poszukujemy wskazanych definicji.
+    „Wyłowione” definicje zapisujemy w oryginale (angielskie w angielskim, polskie w polskim) wraz z informacją, skąd pochodzi definicja (z jakiej książki/z jakiego artykułu, jakiego wydawnictwa, jakiego autora, z którego roku i na której stronie w danej publikacji ona się znajduje)
+    UWAGA: jeżeli napotkacie definicję, którą cytuje inny autor, to jako źródło zapisujemy pierwotny artykuł/książkę i autora…który jest cytowany.
+    Wynikiem powinno być:
+        Zestawienie (w excelu):
+
+                                                     i.     Baza
+
+                                                   ii.     Zapytanie skierowane do bazy
+
+                                                  iii.     Liczba uzyskanych wyników
+
+                                                  iv.     Lista zwróconych wyników
+
+                                                   v.     Dla każdego wyniku informacja, czy w zawarta w niej była szukana definicja, jeżeli tak, to + cytowanie i źródło
+
+        Referat podsumowujący jaki był cel zadania, jakie korki zostały zrealizowane, jakie otrzymano wyniki + wnioski
+
+ 
+
+Dla zadań typu „przegląd rozwiązań…”:
+
+    W internecie i bazach naukowych, szukamy wskazanych rozwiązań
+    Wynikiem powinno być:
+        Zestawienie (w excelu):
+
+                                                     i.     Nazwa rozwiązania
+
+                                                   ii.     producent
+
+                                                  iii.     strona
+
+                                                  iv.     kraj pochodzenia
+
+                                                   v.     dostępne funkcjonalności (UWAGA: wszystkie rozwiązania powinny być oceniane wg tej samej listy funkcjonalności, którą powinniście zbudować na podstawie przeglądu rozwiązań)
+
+        macierz (excel): jeden wymiar, to funkcjonalności, drugi to rozwiązania, które je posiadają
+        Referat podsumowujący jaki był cel zadania, jakie korki zostały zrealizowane, jakie otrzymano wyniki + wnioski
+
+ 
+
+ 
+
+Dla zadań typu „przegląd metodyk…”:
+
+    Postępowanie jak w przypadku pierwszego typu zadania, tyle, że wyniki  powinny wskazywać nie na definicję ale na metodyki wraz z ich opisem (w oryginale).
+
+ 
+
+ 
+
+ 
+
+Bazy naukowe, w których należy szukać:
+
+ 
+
+http://bg.wat.edu.pl/e-zrodla
+
+ 
+
++
+
+ 
+
+Google Scholar
+
+ 
+
+ 
+
+Kłaniam się
+
+ 
+
+TG
